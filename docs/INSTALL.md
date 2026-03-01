@@ -12,3 +12,11 @@ Install using Homebrew:
 
 ```bash
 brew install ollama
+```
+Or download directly from:
+https://ollama.com/download
+
+Start the Ollama service:
+```
+ollama serve
+```
